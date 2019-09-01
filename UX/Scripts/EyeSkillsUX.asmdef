@@ -1,0 +1,19 @@
+{
+    "name": "EyeSkillsUX",
+    "references": [
+        "GUID:28c5e819ece8a0746abb16dc5aa91f44",
+        "GUID:ba171b3dd2a51234ab864770f99741a5",
+        "GUID:8672a88fe9a4645f383b7bc93bd98ccf",
+        "GUID:5ce89ce16c3e74206bd4ae12d295b5fd",
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229",
+        "GUID:f88fb04354076c646a4107a491394033"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

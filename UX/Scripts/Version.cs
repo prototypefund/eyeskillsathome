@@ -1,0 +1,1 @@
+namespace EyeSkills { public class Version { public string version = "b4afd43"; }}
